@@ -1,5 +1,7 @@
 # DIY Landing Page
 
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/diy-landing-page-starter"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+
 ## What Is This? 
 My DIY Landing Page with these features. 
 
