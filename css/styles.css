@@ -1,0 +1,9 @@
+@import url('sharpie.css');
+
+/* My Styles */
+body {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+}
