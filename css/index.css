@@ -1,6 +1,9 @@
 body {
     margin: 0;
   background-color: mintcream;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
   h1{
   color: #9696ee;
