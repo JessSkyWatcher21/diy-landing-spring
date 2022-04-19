@@ -1,12 +1,12 @@
 body {
     margin: 0;
-  background-color: mintcream;
+  background-color: rgb(226, 201, 118);
     display: flex;
     justify-content: center;
     align-items: center;
 }
-  h1{
-  color: #9696ee;
+  title{
+  color: #ee9696;
   font-size: 3em;
 }
 
@@ -16,5 +16,5 @@ p{
   line-height: 1.25em;
   }
 img{
-  width: 35%
+  width: 35%;
 }

@@ -1,6 +1,6 @@
 # DIY Landing Page
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/ewuweblab/diy-landing-page-starter"><img src="https://www.netlify.com/img/deploy/button.svg"
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/JessSkyWatcher21/diy-landing-spring"><img src="https://www.netlify.com/img/deploy/button.svg"
 
 ## What Is This? 
 My DIY Landing Page with these features. 
@@ -13,7 +13,7 @@ My DIY Landing Page with these features.
 
 ## Sources
 * [How to Center with CSS](https://coryrylan.com/blog/how-to-center-in-css-with-css-grid)
-* [Content Editable](https://css-tricks.com/the-browser-can-remember-edited-content/)
+* [favicons] (https://favicon.io/emoji-favicons/bouquet/)
 * [Cabinet-grotesk font via Font Share](https://www.fontshare.com/fonts/cabinet-grotesk)
 
 ## Why Does This Exist? 
