@@ -1,8 +1,6 @@
 body {
     margin: 0;
   background-color: rgb(226, 201, 118);
-    display: flex;
-    justify-content: center;
     align-items: center;
 }
   title{
