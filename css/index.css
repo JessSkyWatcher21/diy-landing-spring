@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+  background-color: mintcream;
+}
+  h1{
+  color: #9696ee;
+  font-size: 3em;
+}
+
+p{
+  width: 50%;
+  font-size: 1.05em;
+  line-height: 1.25em;
+  }
+img{
+  width: 35%
+}
