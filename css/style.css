@@ -2,6 +2,7 @@ body {
     margin: 0;
   background-color: rgb(226, 201, 118);
     align-items: center;
+    justify-content: center;
 }
   title{
   color: #ee9696;
