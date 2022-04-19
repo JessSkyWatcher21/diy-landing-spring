@@ -16,5 +16,6 @@ p{
   line-height: 1.25em;
   }
 img{
-  width: 35%;
+  width: 300px;
+  position: relative;
 }
